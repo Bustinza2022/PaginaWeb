@@ -19,3 +19,6 @@ ul.item{
     text-align:center;
     list-style: none;
 }
+h1.titulo{
+    font-size: 25px;
+}
