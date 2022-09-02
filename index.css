@@ -1,9 +1,7 @@
-header{
-    background-color: greenyellow;
-}
+
 main{
     background-color: white;
-    height:400px;
+    height:500px;
     display:flex;
     justify-content: center;
     align-items: center;
@@ -13,7 +11,11 @@ main{
 }
 #footer a{
 color:white;
+display: flex;
+font-family:Georgia, 'Times New Roman', Times, serif;
+
 }
+
 ul.item{
     color: #1e5372;
     text-align:center;
